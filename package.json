@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "commitizen": "1.0.5",
-    "semantic-release": "^4.3.5"
+    "semantic-release": "^25.0.9"
   },
   "czConfig": {
     "path": "./"
